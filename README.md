@@ -1,7 +1,5 @@
 # graphics_3D
 
-3D vector graphics
-
 This folder contains for the most part the scripts in Wolfram Language that generate 3D images and animations that I uploaded on Wiki Commons. Such files contain the URL of the corresponding Wiki Commons webpage.
 
 **Hall of Fame:**
